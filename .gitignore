@@ -2,3 +2,4 @@
 .venv/
 data/
 xpostsc.code-workspace
+accounts.db
